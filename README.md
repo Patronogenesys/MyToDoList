@@ -1,10 +1,7 @@
-## Woops 
-Now it wont work. I dont know how to include database there :)
-
 ## Description
-University web course project.
-Raw JS, PHP, HTML, CSS.
-Simple to-do list with authorisation.
+University web course project. Simple to-do list with authorisation.
+
+Built with Raw JS, PHP, HTML, CSS. Also XAMPP and Composer used.
 
 ## Installation
 + Install [XAMPP](https://www.apachefriends.org/)
@@ -12,4 +9,9 @@ Simple to-do list with authorisation.
   + `cd /c/xampp/htdocs`
   + `git clone <URL-репозитория>`
 + Start Apache and MySQL in **XAMPP control panel**
++ Open PhpMyAdmin through **XAMPP control panel** (Press `Admin` button near **MySQL**)
+  + Go to `Import`
+  + Choose file `_db-dump\todoliststorage.sql`
+  + Press import
 + Open [http://localhost/home](http://localhost/home)
++ Enjoy!

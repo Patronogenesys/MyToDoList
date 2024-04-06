@@ -16,5 +16,5 @@ App kernel based on this repo https://github.com/somecode-pro/kinopoisk-lite.git
   + Go to `Import`
   + Choose file `_db-dump\todoliststorage.sql`
   + Press import
-+ Open [http://localhost/home]
++ Open http://localhost/home
 + Enjoy!

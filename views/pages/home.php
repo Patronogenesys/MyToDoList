@@ -13,7 +13,7 @@
 <p><a href="/login"><button>Log In</button></a></p>
 <p><a href="/app"><button>Open App</button></a></p>
 <?php if ($auth->isAdmin()) { ?>
-    <p><a href="/app"><button>Admin page</button></a></p>
+    <p><a href="/admin"><button>Admin page</button></a></p>
 <?php } ?>
 
 <?php $view->component('end') ?>

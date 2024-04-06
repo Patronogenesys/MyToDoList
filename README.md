@@ -1,3 +1,6 @@
+## Woops 
+Now it wont work. I dont know how to include database there :)
+
 ## Description
 University web course project.
 Raw JS, PHP, HTML, CSS.
